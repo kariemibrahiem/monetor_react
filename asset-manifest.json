@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monetor_react/static/css/main.df8864a3.css",
+    "main.js": "/monetor_react/static/js/main.c4cccd8f.js",
+    "static/media/programmer.png": "/monetor_react/static/media/programmer.28f27d160527522c8327.png",
+    "static/media/background1.png": "/monetor_react/static/media/background1.2ce9c9c7a1b6b0a6a459.png",
+    "index.html": "/monetor_react/index.html",
+    "main.df8864a3.css.map": "/monetor_react/static/css/main.df8864a3.css.map",
+    "main.c4cccd8f.js.map": "/monetor_react/static/js/main.c4cccd8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df8864a3.css",
+    "static/js/main.c4cccd8f.js"
+  ]
+}
