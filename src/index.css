@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  border: 0px;
+  font-family: "FAQs";
+  text-transform: uppercase;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300&family=Poppins:wght@100&family=Sedgwick+Ave+Display&family=Skranji&family=Space+Mono:ital,wght@1,700&display=swap');
+body{
+  width: 100%;
+  height: 100vh;
+  background-image: url(./materiel/background1.png);
+  background-size: cover;
+  backdrop-filter: blur(2px);
+  overflow: hidden;
+}
+*{
+  text-decoration: none;
+}
